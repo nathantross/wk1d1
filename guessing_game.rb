@@ -31,7 +31,3 @@ if tries >= 2
 	puts "Wow you kind of suck at this don't you."
 else puts "You're pretty awesome at guessing aren't you!"
 end
-
-
-
-
