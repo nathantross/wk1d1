@@ -1,5 +1,6 @@
 puts "Give me a phrase and I will frame it!"
 
+# This will make the user's input and break it into an array.
 arr = gets.chomp.split.map { |x| x.to_s }
 puts "Get ready for some framing action!"
 
