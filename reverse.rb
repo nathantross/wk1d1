@@ -1,5 +1,8 @@
 # not working :/
 
+#
+# Steve, adding comment for git practice
+#
 
 puts "Enter text here and I'll reverse it, with magic!"
 
